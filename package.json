@@ -1,7 +1,7 @@
 {
   "name": "react-testing-library",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://nasytheslayer.github.io/React-testing-library/",
   "private": true,
   "dependencies": {
     "axios": "^1.6.7",
